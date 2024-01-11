@@ -131,8 +131,8 @@ awards:
     awarder: National Mathematics Competition
     icon: ''
     hidden: true
-    summary: |
-      ''
+    summary: ''
+    
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
