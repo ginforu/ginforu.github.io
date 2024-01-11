@@ -74,9 +74,9 @@ work:
       
       Responsibilities include:
       - Developed a neural network using BERT preprocessing model, designed a model capable of
-converting natural language into SQL statements
+      converting natural language into SQL statements
       -Used a dataset consisting of Chinese questions and corresponding SQL queries to achieve the
-transformation from natural language to structured query language
+      transformation from natural language to structured query language
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
