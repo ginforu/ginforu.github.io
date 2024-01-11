@@ -106,7 +106,7 @@ skills:
       - name: Piano
         description: ''
         percent: 100
-        icon: piano
+        icon: /media/icons/piano.svg
       - name: Photography
         description: ''
         percent: 80
@@ -146,7 +146,7 @@ awards:
     icon: ''
     summary: ''
 
-  - title: Successful Participant (Top 55%) in the Mathematical Contest I n Modeling
+  - title: Successful Participant (Top 55%) in the Mathematical Contest In Modeling
     url: ''
     date: '2023-02-16'
     awarder: he Consortium for Mathematics and Its Applications
