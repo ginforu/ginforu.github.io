@@ -154,4 +154,4 @@ awards:
     summary: ''
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently a senior student majoring in Software Engineering at Northeastern University. I am passionate about utilizing coding skills to tackle challenges and contribute to the well-being of human life.
