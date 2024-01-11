@@ -60,7 +60,7 @@ work:
       
       Responsibilities include:
       - Managed tasks including parameter management, data dictionary implementation, financial data integration, business column configuration, business inquiry functionality as well as front-end and back-end development for the stock pledge homepage
-      -Implemented Agile development methodology, executed upcoming sprint requirements, submitted completed tasks to the code repository
+      - Implemented Agile development methodology, executed upcoming sprint requirements, submitted completed tasks to the code repository
       - Participate Sprint Reviews to evaluate workflow and identify areas for improvement, updated the product backlog to ensure alignment with project objectives
      
   - position: Member，Program Planner
@@ -75,7 +75,7 @@ work:
       Responsibilities include:
       - Developed a neural network using BERT preprocessing model, designed a model capable of
       converting natural language into SQL statements
-      -Used a dataset consisting of Chinese questions and corresponding SQL queries to achieve the
+      - Used a dataset consisting of Chinese questions and corresponding SQL queries to achieve the
       transformation from natural language to structured query language
 
 # Skills
@@ -87,26 +87,26 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Java
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Fractal Mathematics
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: chart-bar
+      - name: Piano
         description: ''
         percent: 100
-        icon: cat
+        icon: piano
       - name: Photography
         description: ''
         percent: 80
