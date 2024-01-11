@@ -106,18 +106,18 @@ skills:
       - name: Piano
         description: ''
         percent: 100
-        icon: piano
+        icon: dog
       - name: Photography
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: English
+    percent: 80
+  - name: Spanish
     percent: 25
 
 # Awards.
