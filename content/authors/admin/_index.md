@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 徐婧
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jing Xu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jing
+last_name: Xu
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Passionate about code, design, and innovation.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: School of Software Engineering, Northeastern University
+    url: http://sc.neu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
