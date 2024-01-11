@@ -51,7 +51,7 @@ education:
 work:
   - position: Assistant Java Developer
     company_name: Shenzhen Kingdom Technology Co., Ltd
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://www.szkingdom.com/
     company_logo: ''
     date_start: 2023-05-23
     date_end: 2023-08-18
@@ -127,30 +127,31 @@ languages:
 awards:
   - title: National 3rd Prize (Top 15%) in National Mathematics Competition for College Students 
     url: ''
-    date: '2023-09-07'
-    awarder: National Mathematics Competition
+    date: '2021-10-30'
+    awarder: Chinese Mathematical Society
     icon: ''
-    hidden: true
     summary: ''
-    
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
+   - title: 2nd Prize of Class C (Top 25%) in the National English Contest for College Students
+    url: ''
+    date: '2021-04-21'
+    awarder: Higher Education University Foreign Language Teaching Guidance Committee
+    icon: ''
+    summary: ''
+
+   - title: Provincial Second Prize (Top 20%) in the Mathematical Modeling National Competition 
+    url: ''
+    date: '2023-09-07'
+    awarder: Chinese Society of Industrial and Applied Mathematics
+    icon: ''
+    summary: ''
+
+   - title: Successful Participant (Top 55%) in the Mathematical Contest I n Modeling
+    url: ''
+    date: '2023-02-16'
+    awarder: he Consortium for Mathematics and Its Applications
+    icon: ''
+    summary: ''
 ---
 
 I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
