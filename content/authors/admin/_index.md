@@ -37,7 +37,7 @@ education:
   - area: Software Engineering
     institution: Northeastern University
     date_start: 2020-09-01
-    date_end: 2024-7-1
+    date_end: 2024-07-01
     summary: |
       The average grade for the third year of study: 89.903/100
       
