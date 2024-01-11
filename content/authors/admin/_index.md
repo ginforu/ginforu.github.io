@@ -49,17 +49,22 @@ education:
       - Advanced Mathematics
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Assistant Java Developer
+    company_name: Shenzhen Kingdom Technology Co., Ltd
+    company_url: https://www.szkingdom.com/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2023-05-23
+    date_end: 2023-08-18
+    summary: |
+      The average grade for the third year of study: 89.903/100
+      
+      Courses included:
+      - Operating Systems
+      - Artificial Intelligence Technology
+      - Software Project Management
+      - Algorithms Analysis and Design
+      - Advanced Mathematics
+     
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
