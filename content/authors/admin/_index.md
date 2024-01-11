@@ -51,19 +51,17 @@ education:
 work:
   - position: Assistant Java Developer
     company_name: Shenzhen Kingdom Technology Co., Ltd
-    company_url: https://www.szkingdom.com/
+    url: https://www.szkingdom.com/
     company_logo: ''
     date_start: 2023-05-23
     date_end: 2023-08-18
     summary: |
-      The average grade for the third year of study: 89.903/100
+      Technical Skills: Java, MySQL, Vue, Koca(the framework developed by the internship company), LaTeX, Quartz Scheduler ,Development of Workflow
       
-      Courses included:
-      - Operating Systems
-      - Artificial Intelligence Technology
-      - Software Project Management
-      - Algorithms Analysis and Design
-      - Advanced Mathematics
+      Responsibilities include:
+      - Managed tasks including parameter management, data dictionary implementation, financial data integration, business column configuration, business inquiry functionality as well as front-end and back-end development for the stock pledge homepage
+      -Implemented Agile development methodology, executed upcoming sprint requirements, submitted completed tasks to the code repository
+      - Participate Sprint Reviews to evaluate workflow and identify areas for improvement, updated the product backlog to ensure alignment with project objectives
      
   - position: Backend Software Engineer
     company_name: X
