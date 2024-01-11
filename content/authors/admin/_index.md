@@ -125,7 +125,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title:National 3rd Prize (Top 15%) in National Mathematics Competition for College Students 
+  - title: National 3rd Prize (Top 15%) in National Mathematics Competition for College Students 
     url: ''
     date: '2023-09-07'
     awarder: National Mathematics Competition
