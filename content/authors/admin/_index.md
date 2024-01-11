@@ -63,17 +63,20 @@ work:
       -Implemented Agile development methodology, executed upcoming sprint requirements, submitted completed tasks to the code repository
       - Participate Sprint Reviews to evaluate workflow and identify areas for improvement, updated the product backlog to ensure alignment with project objectives
      
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Member，Program Planner
+    company_name: CN2SQL Transformer
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-03-01
+    date_end: 2023-05-01
     summary: |
+      Technical Skills: Python, Transformer, BERT, Keras, TensorFlow, Numpy, JSON
+      
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed a neural network using BERT preprocessing model, designed a model capable of
+converting natural language into SQL statements
+      -Used a dataset consisting of Chinese questions and corresponding SQL queries to achieve the
+transformation from natural language to structured query language
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
