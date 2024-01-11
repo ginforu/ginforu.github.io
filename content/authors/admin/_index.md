@@ -132,21 +132,21 @@ awards:
     icon: ''
     summary: ''
 
-   - title: 2nd Prize of Class C (Top 25%) in the National English Contest for College Students
+  - title: 2nd Prize of Class C (Top 25%) in the National English Contest for College Students
     url: ''
     date: '2021-04-21'
     awarder: Higher Education University Foreign Language Teaching Guidance Committee
     icon: ''
     summary: ''
 
-   - title: Provincial Second Prize (Top 20%) in the Mathematical Modeling National Competition 
+  - title: Provincial Second Prize (Top 20%) in the Mathematical Modeling National Competition 
     url: ''
     date: '2023-09-07'
     awarder: Chinese Society of Industrial and Applied Mathematics
     icon: ''
     summary: ''
 
-   - title: Successful Participant (Top 55%) in the Mathematical Contest I n Modeling
+  - title: Successful Participant (Top 55%) in the Mathematical Contest I n Modeling
     url: ''
     date: '2023-02-16'
     awarder: he Consortium for Mathematics and Its Applications
