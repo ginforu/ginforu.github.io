@@ -106,7 +106,7 @@ skills:
       - name: Piano
         description: ''
         percent: 100
-        icon: /media/icons/piano.svg
+        icon: camera
       - name: Photography
         description: ''
         percent: 80
