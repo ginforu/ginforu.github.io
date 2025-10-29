@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 徐婧
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jing Xu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jing
+last_name: Xu
 
 # Pronouns (optional)
 pronouns: she/her
@@ -20,35 +20,39 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Second-year M.S. student in Electrical and Computer Engineering at the University of Rochester. I am actively seeking PhD positions.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: University of Rochester
     url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jxu101@ur.rochester.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/BuildLore
+    url: https://x.com/lune_ang3?s=21
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ginforu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/jing-xu-62287b390/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS in Electrical and computer engineering
+    institution: University of Rochester
+    date_start: 2024-08-01
+    date_end: 2026-5-17
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 3.95/4.0
+      Courses included:
+      - Intro to Computational Neuroscience,Advanced Computational Neuroscience
+      - Advanced Topics in Cognitive Neuroscience
+      - Natural Language Processing
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
