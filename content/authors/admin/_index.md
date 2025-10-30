@@ -46,7 +46,7 @@ education:
   - area: MS in Electrical and computer engineering
     institution: University of Rochester
     date_start: 2024-08-01
-    date_end: 2025-08-01
+    date_end: 
     summary: |
       GPA: 3.95/4.0
 
@@ -119,18 +119,6 @@ work:
       (Python).
       - Investigated brain-inspired mechanisms like Surrogate Gradient Learning and Temporal Encoding to enhance the efficiency and accuracy of converted SNNs for potential on-chip applications.
   
-  - position: Research Assistant(Supervised by Dr. Furao Sheng)
-    company_name: State Key Laboratory for Novel Software Technology, Nanjing University
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-08-01
-    date_end: 2024-08-31
-    summary: |
-      - Developed a framework to convert Artificial Neural Networks (ANNs) to Spiking Neural Networks (SNNs),
-      translating continuous neural signals into sparse, spike-based computation for reduced energy consumption
-      (Python).
-      - Investigated brain-inspired mechanisms like Surrogate Gradient Learning and Temporal Encoding to enhance the efficiency and accuracy of converted SNNs for potential on-chip applications.
-  
   - position: Software Engineer
     company_name: Shenzhen Kingdom Technology Co., Ltd– 
     company_url: ''
@@ -143,6 +131,47 @@ work:
       (Python).
       - Investigated brain-inspired mechanisms like Surrogate Gradient Learning and Temporal Encoding to enhance the efficiency and accuracy of converted SNNs for potential on-chip applications.
 
+  - position: Research Assistant(Supervised by Dr. Furao Sheng)
+    company_name: State Key Laboratory for Novel Software Technology, Nanjing University
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-08-01
+    date_end: 2024-08-31
+    summary: |
+      - Developed a framework to convert Artificial Neural Networks (ANNs) to Spiking Neural Networks (SNNs),
+      translating continuous neural signals into sparse, spike-based computation for reduced energy consumption
+      (Python).
+      - Investigated brain-inspired mechanisms like Surrogate Gradient Learning and Temporal Encoding to enhance the efficiency and accuracy of converted SNNs for potential on-chip applications.
+  
+  - position: Hierarchical Transformers for Multi-Document Summarization
+    company_name:  course project for Natural Language Processing(A)
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-05-01
+    date_end: 2025-05-31
+    summary: |
+      - Designed and evaluated a hierarchical Transformer model to address cross-document structure in
+      multi-document summarization, overcoming the redundancy and lack of global coherence typical of
+      flat-sequence processing.
+      - Built a two-stage framework, replacing an LSTM ranker with a BERT-based encoder to jointly encode
+      title-paragraph pairs and improve salient paragraph extraction.
+      - Developed global Transformer layers with multi-head pooling and inter-paragraph attention to enable effective
+      context fusion across documents.
+      - Achieved a ROUGE-1 score of 11.11 using the BERT encoder, significantly outperforming the LSTM baseline and
+      demonstrating improved content coverage and relevance.
+
+  - position: Backpropagation vs. Prospective Configuration in Neural Networks 
+    company_name: course project for Advanced ComputationalNeuroscience(A)
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-05-01
+    date_end: 2025-05-31
+    summary: |
+      - Evaluated the performance of Backpropagation in CNNs versus Prospective Configuration in Predictive Coding
+      Networks (PCNs) on CIFAR-10 image classification and target alignment tasks.
+      - Developed and trained CNN and PCN models, achieving 64.96% accuracy with CNNs (BP) on CIFAR-10 and
+      demonstrating lower test error for PCNs under specific conditions.
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -150,24 +179,36 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: devicon/python
-      - name: RStudio
+      - name: Matlab
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: 80
+        icon: devicon/ Matlab
+      - name: Java/JavaScript/SQL
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 80
+        icon: devicon/Java
+      - name: C/C++
+        description: ''
+        percent: 90
+        icon: devicon/C
+      - name: Swift
+        description: ''
+        percent: 70
+        icon: devicon/Swift
+      - name: Amazon Web Services (AWS), Docker, Git, SVN
+        description: ''
+        percent: 70
+        icon: devicon/Docker
   - name: Hobbies
-    color: '#eeac02'
+    color: 'rgba(238, 172, 2, 1)'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Piano
         description: ''
-        percent: 60
-        icon: person-simple-walk
+        percent: 50
+        icon: piano
       - name: Cats
         description: ''
         percent: 100
@@ -179,11 +220,10 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
