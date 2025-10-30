@@ -24,8 +24,8 @@ role: Second-year M.S. student in Electrical and Computer Engineering at the Uni
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Rochester
-    url: https://www.example.com/
+  - name: Hajim School of Engineering & Applied Sciences
+    url: https://www.hajim.rochester.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -49,58 +49,82 @@ education:
     date_end: 2026-05-17
     summary: |
       GPA: 3.95/4.0
+
       Courses included:
       - Intro to Computational Neuroscience,Advanced Computational Neuroscience
       - Advanced Topics in Cognitive Neuroscience
       - Natural Language Processing
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: BS in Software engineering 
+    institution: Northeastern University(China）
+    date_start: 2020-09-01
+    date_end: 2024-07-31
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      - Artificial Intelligence Technology
+      - Practice for Software Product Construction
+      -  Operating Systems
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+Research Experience:
+  - position: Software Engineer
+    company_name: Shenzhen Kingdom Technology Co., Ltd– 
+    company_url: https://www.szkingdom.com/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-05-01
+    date_end: 2023-08-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed key modules for an institutional operation platform, including parameter management, data dictionary, and user credential updates, utilizing Vue.js and the KOCA framework (Atom/BEX/MyBatis).
+      - Implemented the “View Customer” module with real-time financial and tracking data integration via backend
+      API, enabling efficient client information access and improving operational efficiency.
+      - Built an automated due diligence report module with Word/PDF generation and scheduled tasks, ensured
+      accurate data processing and timely report delivery.
+      - Designed and implemented a "Stock Pledge" module with automated report generation and data verification
+      workflows, streamlined the pledge process through API integration and multi-node data handling.
+  
+  - position: Software Engineer
+    company_name: Shenzhen Kingdom Technology Co., Ltd– 
+    company_url: https://www.szkingdom.com/
+    company_logo: ''
+    date_start: 2023-05-01
+    date_end: 2023-08-01
+    summary: |
+      - Developed key modules for an institutional operation platform, including parameter management, data dictionary, and user credential updates, utilizing Vue.js and the KOCA framework (Atom/BEX/MyBatis).
+      - Implemented the “View Customer” module with real-time financial and tracking data integration via backend
+      API, enabling efficient client information access and improving operational efficiency.
+      - Built an automated due diligence report module with Word/PDF generation and scheduled tasks, ensured
+      accurate data processing and timely report delivery.
+      - Designed and implemented a "Stock Pledge" module with automated report generation and data verification
+      workflows, streamlined the pledge process through API integration and multi-node data handling.
+
+Internship:
+  - position: Software Engineer
+    company_name: Shenzhen Kingdom Technology Co., Ltd– 
+    company_url: https://www.szkingdom.com/
+    company_logo: ''
+    date_start: 2023-05-01
+    date_end: 2023-08-01
+    summary: |
+      - Developed key modules for an institutional operation platform, including parameter management, data dictionary, and user credential updates, utilizing Vue.js and the KOCA framework (Atom/BEX/MyBatis).
+      - Implemented the “View Customer” module with real-time financial and tracking data integration via backend
+      API, enabling efficient client information access and improving operational efficiency.
+      - Built an automated due diligence report module with Word/PDF generation and scheduled tasks, ensured
+      accurate data processing and timely report delivery.
+      - Designed and implemented a "Stock Pledge" module with automated report generation and data verification
+      workflows, streamlined the pledge process through API integration and multi-node data handling.
+
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
