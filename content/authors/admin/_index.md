@@ -67,7 +67,7 @@ education:
       - Practice for Software Product Construction
       - Operating Systems
 
-experience:
+work:
   - position: Research Assistant (Supervised by Dr. Laurel Carney)
     company_name: Carney Lab
     company_url: https://www.urmc.rochester.edu/labs/carney
