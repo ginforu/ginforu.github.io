@@ -66,7 +66,6 @@ education:
       - Artificial Intelligence Technology
       - Practice for Software Product Construction
       - Operating Systems
-
 work:
   - position: Research Assistant (Supervised by Dr. Laurel Carney)
     company_name: Carney Lab
@@ -74,7 +73,7 @@ work:
     company_logo: ''
     date_start: 2025-05-01
     date_end: 
-    summary: |
+    summary: |2-
       - Developed receptive-field encoding models to predict extracellular IC single-neuron responses with frequency
       and amplitude modulation tuning features (MATLAB).
       - Implemented MLP, CNN, and CKAN models to predict neural activity from single-trial data, enhancing model
