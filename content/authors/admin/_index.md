@@ -46,7 +46,7 @@ education:
   - area: MS in Electrical and computer engineering
     institution: University of Rochester
     date_start: 2024-08-01
-    date_end: 2026-05-17
+    date_end: 2025-08-01
     summary: |
       GPA: 3.95/4.0
 
