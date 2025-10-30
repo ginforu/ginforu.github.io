@@ -224,7 +224,6 @@ languages:
   - name: Chinese
     percent: 100
 
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -257,4 +256,10 @@ languages:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+University of Rochester ECE Master’s student seeking a research (PhD) position in computational neuroscience,
+with a focused research interest in cognitive network neuroscience . With an interdisciplinary background
+combining computer engineering and neuroscience research, my expertise lies in applying machine learning
+models to diverse data modalities, including fMRI, electrophysiology, acoustic signals, and images. I am eager to
+apply my experience in computational modeling to investigate how task-driven cognitive computations emerge
+from underlying brain network mechanisms, and how these causal principles can inform the development of
+more empirically-constrained and generalizable artificial intelligence.
