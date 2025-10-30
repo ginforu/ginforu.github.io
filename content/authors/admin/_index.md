@@ -259,4 +259,4 @@ languages:
 University of Rochester ECE Master’s student seeking a research (PhD) position in computational neuroscience,
 with a focused research interest in computational neuroscience . With an interdisciplinary background
 combining computer engineering and neuroscience research, my expertise lies in applying machine learning
-models to diverse data modalities, including fMRI, electrophysiology, acoustic signals, and images.
+models to diverse data modalities, including fMRI, electrophysiology, acoustic signals, and images. 
